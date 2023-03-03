@@ -1,1 +1,1 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/malikareeb?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malikareeb&count_private=true)
