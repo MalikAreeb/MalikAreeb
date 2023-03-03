@@ -1,4 +1,4 @@
-Hi there, I'm Nashir Abdullah :wave:
+Hi there, I'm Areeb Malik :wave:
 <br>
 I am currently working as a Flutter developer at Noqod opc india pvt ltd
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nashirdrabi)](https://git.io/streak-stats)
