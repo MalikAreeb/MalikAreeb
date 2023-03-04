@@ -10,10 +10,15 @@ Skills  :
 <br>
 
 Flutter
+<br>
 Dart
+<br>
 Git,Github
+<br>
 UI/UX,
+<br>
 Web Develoment
+<br>
 Firebase
 <br>
 
