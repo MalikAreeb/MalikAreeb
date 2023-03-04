@@ -25,9 +25,9 @@ Firebase
 <br>
 
 # 📊 GitHub Stats:
-<br>
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Malikareeb)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikareeb&layout=compact)](https://github.com/nashirdrabi/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=MalikAreeb&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MalikAreeb&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAreeb&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=MalikAreeb&icon=0&color=0)](https://visitcount.itsvg.in)
