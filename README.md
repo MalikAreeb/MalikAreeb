@@ -2,12 +2,14 @@
 
 <b><U>Intro:</U></b>
 <br>
+<br>
 Hi there, I'm Areeb Malik :wave:
 <br>
 I am currently working as a Flutter developer at Fastbeetle india pvt ltd
 
 
 <b><font size= 50px>Skills   💻</fontsize> </b>
+<br>
 <br>
 Flutter
 <br>
