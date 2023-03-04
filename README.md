@@ -1,6 +1,7 @@
 
 
-<b><u>Intro:</u></b>
+<b><U>Intro:</U></b>
+
 <br>
 Hi there, I'm Areeb Malik :wave:
 <br>
