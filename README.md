@@ -9,8 +9,7 @@ I am currently working as a Flutter developer at Fastbeetle india pvt ltd
 
 
 # 📊 Skills 💻
-<br>
-<br>
+
 Flutter
 <br>
 Dart
