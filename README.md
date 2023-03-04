@@ -6,7 +6,7 @@ Hi there, I'm Areeb Malik :wave:
 I am currently working as a Flutter developer at Fastbeetle india pvt ltd
 
 
-<b><font size= "50px">Skills   💻</font> 
+<b><font size= "50px">Skills   💻</font> </b>
 <br>
 
 Flutter
