@@ -24,7 +24,7 @@ Web Develoment
 Firebase
 <br>
 
-<b><U>GitHub Stats:</U></b>
+# 📊 GitHub Stats:
 <br>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Malikareeb)](https://git.io/streak-stats)
