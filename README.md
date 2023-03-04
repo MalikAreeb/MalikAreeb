@@ -1,8 +1,6 @@
 
 
-<b><U>Intro:</U></b>
-<br>
-<br>
+# 📊 Intro
 Hi there, I'm Areeb Malik :wave:
 <br>
 I am currently working as a Flutter developer at Fastbeetle india pvt ltd
