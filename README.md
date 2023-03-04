@@ -1,7 +1,6 @@
 
 
 <b><U>Intro:</U></b>
-
 <br>
 Hi there, I'm Areeb Malik :wave:
 <br>
@@ -9,7 +8,6 @@ I am currently working as a Flutter developer at Fastbeetle india pvt ltd
 
 
 <b><font size= 50px>Skills   💻</fontsize> </b>
-
 <br>
 Flutter
 <br>
@@ -24,7 +22,7 @@ Web Develoment
 Firebase
 <br>
 
-GitHub Stats:
+<b><U>GitHub Stats:</U></b>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Malikareeb)](https://git.io/streak-stats)
 <br>
