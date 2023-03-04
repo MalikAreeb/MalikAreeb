@@ -26,6 +26,7 @@ Firebase
 
 <b><U>GitHub Stats:</U></b>
 <br>
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Malikareeb)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikareeb&layout=compact)](https://github.com/nashirdrabi/github-readme-stats)
