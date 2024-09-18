@@ -3,22 +3,22 @@
 # Intro
 Hi there, I'm Areeb Malik :wave:
 <br>
-I am currently working as a Flutter developer at Fastbeetle india pvt ltd
+I am currently working as a Flutter developer at Kashmeasy Softlabs 
 
 
 # Skills 💻
 
-Flutter
+Flutter/Dart
 <br>
-Dart
-<br>
-Git,Github
+Version control
 <br>
 UI/UX,
 <br>
-Web Develoment
+Clean code architecture , Design Patterns
 <br>
 Firebase
+<br>
+Web Development
 <br>
 
 # 📊 GitHub Stats:
