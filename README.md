@@ -3,7 +3,7 @@
 # Intro
 Hi there, I'm Areeb Malik :wave:
 <br>
-I am currently working as a Flutter developer at Kashmeasy Softlabs 
+I am currently working as a Flutter developer at Metadee Bussiness Group
 
 
 # Skills 💻
