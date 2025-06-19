@@ -22,6 +22,8 @@ State Management (Bloc , Getx , Provider)
 <br>
 RESTFUL API integration (dio , http)
 <br>
+Socket IO API integration (Socket.iO client)
+<br>
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MalikAreeb)](https://git.io/streak-stats)
