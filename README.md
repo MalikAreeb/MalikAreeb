@@ -8,17 +8,19 @@ I am currently working as a Flutter developer at Metadee Bussiness Group
 
 # Skills 💻
 
-Flutter/Dart
+Flutter & Dart
 <br>
-Version control
+Version control (Git ,GitHub)
 <br>
 UI/UX,
 <br>
-Clean code architecture , Design Patterns
+Project Architectures (MVVM ,MVC)
 <br>
 Firebase
 <br>
-Web Development
+State Management (Bloc , Getx , Provider)
+<br>
+RESTFUL API integration (dio , http)
 <br>
 
 # 📊 GitHub Stats:
