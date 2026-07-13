@@ -18,7 +18,7 @@ Project Architectures (MVVM ,MVC)
 <br>
 Firebase
 <br>
-State Management (Bloc , Getx , Provider)
+State Management (Bloc , Getx , Provider, Riverpod)
 <br>
 RESTFUL API integration (dio , http)
 <br>
